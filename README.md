@@ -29,5 +29,7 @@ Feel free to explore each component for more details and usage instructions.
 
 3. [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
 
+4. [PDFKit](https://github.com/JazzCore/python-pdfkit) (and related dependencies)
+
 It is recommended to install libraries 1 and 2 in separate virtual (conda) environments. The python scripts mentioned above do not require both these libraries to be installed in the same environment.
 
