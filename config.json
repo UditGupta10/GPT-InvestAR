@@ -1,0 +1,16 @@
+{
+    "financial_modelling_prep_api_key":"<your own fmp key>",
+    "openai_api_key":"<your own openai key>",
+    "annual_reports_html_save_directory":"<directory where fetched 10-k html files will be saved>",
+    "annual_reports_pdf_save_directory":"<directory where pdf files converted from html files will be saved>",
+    "targets_df_path":"<pandas df containing generated target columns saved as pickle file>",
+    "targets_train_df_path":"<pandas df of sampled train data saved as pickle file>",
+    "targets_test_df_path":"<pandas df of sampled test data saved as pickle file>",
+    "embeddings_for_training_directory":"<save embeddings for train dataset here>",
+    "embeddings_for_testing_directory":"<save embeddings for test dataset here>",
+    "feature_train_df_save_directory":"<directory where gpt generated feature scores for train set for each symbol and date will be saved>",
+    "feature_test_df_save_directory":"<directory where gpt generated feature scores for test set for each symbol and date will be saved>",
+    "final_train_df_save_path":"<pandas df containing target and feature columns for train set saved as pickle file>",
+    "final_test_df_save_path":"<pandas df containing target and feature columns for test set saved as pickle file>",
+    "llm_system_prompt":"<Your own prompt>. Give the answer in json format with only one key that is: 'score'"
+}
