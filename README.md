@@ -33,3 +33,22 @@ Feel free to explore each component for more details and usage instructions.
 
 It is recommended to install libraries 1 and 2 in separate virtual (conda) environments. The python scripts mentioned above do not require both these libraries to be installed in the same environment.
 
+## Citation
+
+If you use the code or find this repository helpful, please consider citing the paper:
+
+**GPT-InvestAR**: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models  
+Udit Gupta  
+Published on arXiv: [arXiv Link](https://arxiv.org/abs/2309.03079)
+
+```bibtex
+@article{GPT-InvestAR,
+  author = {Udit Gupta},
+  title = {GPT-InvestAR: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models},
+  journal = {arXiv e-prints},
+  year = {2023},
+  eprint = {arXiv:2309.03079},
+  url = {https://arxiv.org/abs/2309.03079},
+}
+
+
