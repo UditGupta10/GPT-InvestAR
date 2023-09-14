@@ -39,7 +39,9 @@ If you use the code or find this repository helpful, please consider citing the 
 
 **GPT-InvestAR**: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models  
 Udit Gupta  
-Published on arXiv: [arXiv Link](https://arxiv.org/abs/2309.03079)
+Publication Links: 
+1. [arXiv Link](https://arxiv.org/abs/2309.03079)
+2. [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4568964)
 
 ```bibtex
 @article{GPT-InvestAR,
@@ -50,5 +52,3 @@ Published on arXiv: [arXiv Link](https://arxiv.org/abs/2309.03079)
   eprint = {arXiv:2309.03079},
   url = {https://arxiv.org/abs/2309.03079},
 }
-
-
